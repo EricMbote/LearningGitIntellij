@@ -1,8 +1,8 @@
 package com.mycompany.app;
 
-import static org.junit.Assert.assertTrue;
+import org.testng.annotations.Test;
 
-import org.junit.Test;
+import static org.testng.AssertJUnit.assertTrue;
 
 /**
  * Unit test for simple App.
